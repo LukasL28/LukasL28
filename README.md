@@ -1,6 +1,5 @@
 <h1 align="center"> Lukas L. </h1>
 <p align="center">
-  <a href="" rel="noopener">
  <img width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo"></a>
 </p>
 
