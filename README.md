@@ -30,5 +30,4 @@
 
 <h3> Stats: </h3>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasL28&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasL28&theme=dracula)
