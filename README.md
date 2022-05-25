@@ -2,7 +2,7 @@
 <p align="center">
  <img width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo"></a>
 
-  <img src="./github-metrics.svg" alt="Project logo">
+  <img align="center" src="./github-metrics.svg" alt="Project logo">
 </p>
 
 <h1></h1>
