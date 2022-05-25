@@ -2,9 +2,9 @@
 
 <div align="center">
 
- <img  width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo">
+ <img align="center" width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo">
 
-  <img  src="./github-metrics.svg" alt="Metrics" >
+  <img align="center" src="./github-metrics.svg" alt="Metrics" >
 
 </div>
 
