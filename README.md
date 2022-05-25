@@ -4,6 +4,9 @@
 
  <img align="center" width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo">
 
+ </div>
+ <div align="center">
+ 
   <img align="center" src="./github-metrics.svg" alt="Metrics" >
 
 </div>
