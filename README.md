@@ -1,6 +1,6 @@
 <h1 align="center"> Lukas L. </h1>
 <p align="center">
- <img width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo"></a>
+ <img width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo"></p>
 
   <img align="center" src="./github-metrics.svg" alt="Project logo">
 </p>
