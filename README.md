@@ -33,4 +33,7 @@
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [PHP](https://www.php.net/) - Webserver Backend
 - [Docker](https://www.docker.com/) - Virtualization Environment
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7747174b45367d2152d821a8fa9f4881b3117eba
