@@ -1,5 +1,3 @@
-<h1 align="center"> Lukas L. </h1>
-
 <div align="center">
 
  <img align="center" width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo">
@@ -36,6 +34,3 @@
 - [PHP](https://www.php.net/) - Webserver Backend
 - [Docker](https://www.docker.com/) - Virtualization Environment
 
-<h3> Stats: </h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasL28&theme=dracula)
