@@ -15,10 +15,7 @@
 <p>I started programming as a hobby but overtime it became my part-time job</p>
 
 <h1></h1>
-<p> My GitHub stats: </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasL28&count_private=true&theme=radical)
-<h1></h1>
 <h2>My Programming skills:</h2>
 
 <h3> Frontend: </h3>
